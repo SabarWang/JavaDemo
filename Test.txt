@@ -2,3 +2,7 @@ main()
 {
     print("Holle word")  
 }
+method()
+{
+    print("my name is Sabar")
+}
